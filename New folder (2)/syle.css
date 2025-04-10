@@ -1,0 +1,4 @@
+#gameBox.active 
+    background-color: #00ff44; /* Brighter green */
+    color: #000;
+    box-shadow: 0 0 30px #00ff44, 0 0 60px #00ff44;
